@@ -1,2 +1,4 @@
-# motion_planning_by_choset
-Principles of Robot Motion: Theory, Algorithms, and Implementations: Notes and Solution
+
+# Principles of Robot Motion: Theory, Algorithms, and Implementations
+
+[Course Webpage](https://www.cs.cmu.edu/~motionplanning/)
