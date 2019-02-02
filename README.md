@@ -17,7 +17,7 @@
 
     Rough Pages: (1- 190) ~ 190 Pages
     
-    Estimated Date of Finish: **May 2nd, Feb 2019**
+    Estimated Date of Finish: **May 2nd, 2019**
     
 ------------------------------------------------ 
      2. Probablistic Methods (7 ,8, 9)
