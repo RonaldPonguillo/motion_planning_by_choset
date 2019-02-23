@@ -1,9 +1,7 @@
 
-# Principles of Robot Motion: Theory, Algorithms, and Implementations
+### Principles of Robot Motion: Theory, Algorithms, and Implementations
 
 [Course Webpage](https://www.cs.cmu.edu/~motionplanning/)
-
-## Strategy
 
 -------------------------------------------------
     1. Geometric Motion Planning (2, 3, 4, 5, 6)
@@ -17,7 +15,6 @@
 
     Rough Pages: (1- 190) ~ 190 Pages
     
-    Estimated Date of Finish: **May 2nd, 2019**
     
 ------------------------------------------------ 
      2. Probablistic Methods (7 ,8, 9)
@@ -42,14 +39,9 @@
     4. Appendix (470 - 560) - 90 Pages
 -----------------------------------------------
 
-
-Starte Date: 2nd Feb, 2019
-
-Duration to Finish: 10 Months
-
-End Date:   2nd December, 2019
-
 Total Size of Book: 500 Pages + 90 (Chapters + Appendix)
 
 Per Month: 50 Pages
+
+Per Month: 1 Chapter
 
