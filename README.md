@@ -8,6 +8,20 @@
 -------------------------------------------------
   * Introduction
   * Bug Algorithm
+  
+  Reference
+  
+  1. [ROS package implementing bug 0, 1, and 2 in Python](https://github.com/millere/bugs)
+  2. [ROS-Bug-Algorithm](https://github.com/NicholasColotouros/ROS-Bug-Algorithm)
+  3. [Implementation of Bug's algorithms for mobile robots in V-REP simulator
+](https://github.com/ar0ne/v-rep-robotics)
+4. [Implementing Bug Algorithms variants](https://github.com/SelmaKchir/BugAlgorithms/wiki/Implementing-Bug-Algorithms-variants)
+5. [Simulation of the tangent bug algorithm for robot navigation in ROS](https://github.com/jihoonkim92/tangentbug)
+6. [Obstacle avoidance with the Bug-1 algorithm](http://www.aishack.in/tutorials/obstacle-avoidance-bug-algorithm/)
+  
+  
+  
+  
   * Configuration Space
   * Potential Functions
   * Roadmaps
