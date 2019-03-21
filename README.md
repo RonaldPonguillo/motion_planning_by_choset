@@ -18,6 +18,7 @@
 4. [Implementing Bug Algorithms variants](https://github.com/SelmaKchir/BugAlgorithms/wiki/Implementing-Bug-Algorithms-variants)
 5. [Simulation of the tangent bug algorithm for robot navigation in ROS](https://github.com/jihoonkim92/tangentbug)
 6. [Obstacle avoidance with the Bug-1 algorithm](http://www.aishack.in/tutorials/obstacle-avoidance-bug-algorithm/)
+7. [Ransac - Bug2 Implementation](https://github.com/zstring/Ransac-Bug2)
   
   
   
